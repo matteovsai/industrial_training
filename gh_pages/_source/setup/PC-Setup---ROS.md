@@ -7,7 +7,7 @@
 The VM method is the most convenient method of utilizing the training materials:
 
  1. [Download virtual box](https://www.virtualbox.org/wiki/Downloads)
- 1. [Download ROS Foxy training VM](https://rosi-images.datasys.swri.edu)
+ 1. [Download ROS Foxy training VM](https://rosi-images.datasys.swri.edu) *** this link no longer works ***
  1. [Import image into virtual box](https://www.virtualbox.org/manual/ch01.html#ovf)
  1. Start virtual machine
     1. *Note: If possible, assign two cores in Settings>>System>>Processor to your virtual machine before starting your virtual machine. This setting can be adjusted when the virtual machine is closed and shut down.
